@@ -1,1 +1,1 @@
-export const antdTheme = { primaryColor: '#FF6B08', inputBg: 'red' };
+export const antdTheme = { primaryColor: '#FF6B08' };
